@@ -1,5 +1,5 @@
 class Person
  end
  
- adele_goldberg = Person.authenticate_or_request_
+dele_goldberg = Person.authenticate_or_request_
  
