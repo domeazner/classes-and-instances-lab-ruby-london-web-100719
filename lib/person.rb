@@ -1,5 +1,4 @@
 class Person
  end
  
-dele_goldberg = Person.authenticate_or_request_
- 
+adele_goldberg = Person.new
